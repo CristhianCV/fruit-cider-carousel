@@ -1,0 +1,11 @@
+.can-background {
+    clip-path: url(#myPath);
+    background-blend-mode: multiply;
+    background-size: 150% 155%, 150% 100%;
+    background-image: url("../src/assets/can.webp"), url("../src/assets/label.jpg");
+}
+
+.can-background {
+    background-position: 44% 51%, -50% 50%;
+    max-height: min(60vh, 80vw);
+}
