@@ -1,8 +1,24 @@
-# React + Vite
+# Fruit Cider 🍐🍏🥝
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> Desing: [Figma Tutorial: 3D Carousel Slider](https://www.youtube.com/watch?v=XKSNDxp-I14)
 
-Currently, two official plugins are available:
+Carousel sliders with rotating effects
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Made with React + Tailwind + GSAP
+
+## Get Started
+
+1. Install the dependencies
+
+```
+cd fruit-cider-carousel
+npm install
+```
+
+2. Run app
+
+```
+npm run dev
+```
+
+Demo: https://hilarious-meerkat-c96bd0.netlify.app/
